@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "node ggapi/server.js"
+  },
+  "type": "module",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
